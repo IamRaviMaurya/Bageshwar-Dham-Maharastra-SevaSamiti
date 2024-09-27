@@ -7,6 +7,6 @@ date: 2014-07-15
 img: Bageshwar Bagicha (Garden).jpg
 thumbnail: Bageshwar Bagicha (Garden).jpg
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: These days, many important steps are being taken all over the world to protect the environment. Even the country faced the tragedy regarding oxygen during Corona. Conservation of trees is necessary for oxygen to remain in the environment. That’s why Maharajshree took a pledge to protect the environment and decided to build Bageshwar Bagicha across the country. Many Bageshwar gardens have also been constructed in many parts of the country including Madhya Pradesh.
 
 ---
