@@ -1,0 +1,11 @@
+---
+title: Vedic Gurukul
+subtitle: Vedic School
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: Vedic Gurukul.jpg
+thumbnail: Vedic Gurukul.jpg
+alt: image-alt
+description: Respected Gurudev’s vision is that Indian culture and Sanskrit language should be spread throughout the world. A Vedic Gurukul is being established in the premises of Bageshwar Dham, where children will be given knowledge of Vedas along with modern education.
+---

@@ -1,0 +1,12 @@
+---
+title: Marriage of poor
+subtitle: destitute girls
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: Marriage.jpg
+thumbnail: Marriage.jpg
+alt: image-alt
+description: Respected Gurudev always says that for those who have no one, Bageshwar Balaji Maharaj is there. Today, every year the marriage of many poor and destitute girls is organized by Bageshwar Dham with full rituals. Also, every item used in household is given to the daughter as a gift from the Dham.
+
+---

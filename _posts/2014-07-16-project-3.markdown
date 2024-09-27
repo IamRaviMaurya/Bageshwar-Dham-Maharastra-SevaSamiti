@@ -1,0 +1,14 @@
+---
+title: Gau Raksha
+subtitle: Cow protection
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: Gau Raksha (Cow protection).jpg
+thumbnail: Gau Raksha (Cow protection).jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: In our country, cow is worshiped as a mother and for Hindus all over the world to respect her, respected Gurudev has given the slogan – “Gaushala nahi upay, ek Hindu ek gay” (Cowshed is not the solution, one Hindu one cow). Gurudev believes that even if you cannot keep a cow, then if any poor around you is caring a cow, then you should give him some money every month so that he can feed the cow and the milk that is produced from that cow. Yes, he will be able to support his family with it.
+---

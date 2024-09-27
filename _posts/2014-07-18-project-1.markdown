@@ -1,0 +1,12 @@
+---
+title: Annapurna Rasoi 
+subtitle: Kitchen
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: annapurna-thumbnail.jpg
+thumbnail: annapurna-thumbnail.jpg
+alt: image-alt
+description: It is the pledge of Pujya Maharajshri that no person coming to the Dham should remain hungry, hence Annapurna Rasoi (Kitchen) was started in the Dham, where free food prasad is arranged for thousands of people every day and lakhs of people on Tuesday-Saturday. The special thing is that all the arrangements of Annapurna Rasoi are done with half of the offerings (Chadotri) coming to the Dham and the amount of donation.
+
+---
