@@ -7,6 +7,6 @@ date: 2014-07-15
 img: Cancer Hospital.jpg
 thumbnail: Cancer Hospital.jpg
 alt: image-alt
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Dhirendra Krishna Shastri, also known as Bageshwar Dham Sarkar, has plans to open a cancer hospital aimed at providing free or highly subsidized treatment to the poor. His initiative is part of a broader mission to offer healthcare support and medical facilities to those in need, aligning with his spiritual and humanitarian efforts to assist the underprivileged. The hospital would likely focus on making cancer treatments accessible for economically weaker sections, extending his efforts beyond spiritual guidance into community welfare and medical support
 
 ---
